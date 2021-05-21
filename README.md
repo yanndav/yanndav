@@ -3,4 +3,4 @@
 - 🛠 I speak R and Python, and I'm learning Html/CSS/Javascript
 - 👨‍🎓 I am a Graduate student in Applied Economics at the Paris School of Economics, and in Public Policy at Sciences Po
 - Feel free to reach out at [yann.collindavid@gmail.com](mailto:yann.collindavid@gmail.com)
-- You can find further information about my ongoing project at [yanndav.github.io](yanndav.github.io)  
+- You can find further information about my ongoing project at https://yanndav.github.io/  
