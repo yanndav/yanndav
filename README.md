@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Yann!
 - 🌍 I now work at the [CIRED](http://www.centre-cired.fr/en/) as a Research Officer on a very cool project: the [Biovallée](https://biovallee.net/). My task is to develop a monitoring tool (a dashboard) incorporating material flow analysis and socioeconomic indicators at a very local level.
-- 🌱 On my spare time I'm also developping www.ecolometrics.org in partnership with [Gael](https://github.com/gael-david), an awesome brother and full-stack developper. The objective is to deploy an open knowledge hub on ecological transitions (by the end of 2021).
-- 🛠 I speak R and Python, and I'm learning Html/CSS/Javascript/React
+- 📚 As part of my Master's Thesis, I am developing [metacademia](http://www.metacademia.org/), a web assistant for your litterature reviews. It uses scholarly citation networks and a recommendation algorithm (based on titles // and soon on abstracts 🤞) to suggest other relevant references. The current release is a prototype and may evolve in different directions.
+- 🌱 On my spare time I'm also developping www.ecolometrics.org in partnership with [Gael](https://github.com/gael-david), an awesome brother and full-stack developper. The objective is to deploy (by the end of 2021) an open knowledge hub on ecological transitions' data scattered across the web.
+- 🛠 By rank of confidence, I speak R and Python, and I'm also learning Html/CSS/Javascript/React
 - 👨‍🎓 I am finalising / finalised my graduate studies in Applied Economics at the Paris School of Economics, and in Public Policy at Sciences Po
 - Feel free to reach out at [yann.collindavid@gmail.com](mailto:yann.collindavid@gmail.com)
-- You can find further information about my ongoing projects at https://yanndav.github.io/  
+- You can find further information about my ongoing projects at https://yanndav.github.io/  (hold on, I need to update this page someday)
